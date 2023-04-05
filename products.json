@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Remera",
+      "price": 500,
+      "thumbnail": "remera@gmail.com",
+      "id": 1
+    },
+    {
+      "title": "Pantalon",
+      "price": 500,
+      "thumbnail": "pantalon@gmail.com",
+      "id": 2
+    },
+    {
+      "title": "Sueter",
+      "price": 500,
+      "thumbnail": "sueter@gmail.com",
+      "id": 3
+    },
+    {
+      "title": "Ropa interior",
+      "price": 423.56,
+      "thumbnail": "interior@gmail.com",
+      "id": 4
+    },
+    {
+      "title": "Zapatillas",
+      "price": 500,
+      "thumbnail": "zapatillas@gmail.com",
+      "id": 5
+    }
+  ]
